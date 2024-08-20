@@ -1,0 +1,6 @@
+@CandCertManager_HostAddress = http://localhost:5072
+
+GET {{CandCertManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

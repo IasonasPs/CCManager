@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iasonas.psomadakis\\source\\repos\\CandCertManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE82088-9AEE-436D-AC6D-425BDC9F6315}|CandCertManager\\CCManager.csproj|c:\\users\\iasonas.psomadakis\\source\\repos\\candcertmanager\\candcertmanager\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE82088-9AEE-436D-AC6D-425BDC9F6315}|CandCertManager\\CCManager.csproj|solutionrelative:candcertmanager\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE82088-9AEE-436D-AC6D-425BDC9F6315}|CandCertManager\\CCManager.csproj|c:\\users\\iasonas.psomadakis\\source\\repos\\candcertmanager\\candcertmanager\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE82088-9AEE-436D-AC6D-425BDC9F6315}|CandCertManager\\CCManager.csproj|solutionrelative:candcertmanager\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE82088-9AEE-436D-AC6D-425BDC9F6315}|CandCertManager\\CCManager.csproj|c:\\users\\iasonas.psomadakis\\source\\repos\\candcertmanager\\candcertmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE82088-9AEE-436D-AC6D-425BDC9F6315}|CandCertManager\\CCManager.csproj|solutionrelative:candcertmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 169,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iasonas.psomadakis\\source\\repos\\CandCertManager\\CandCertManager\\Program.cs",
+              "RelativeDocumentMoniker": "CandCertManager\\Program.cs",
+              "ToolTip": "C:\\Users\\iasonas.psomadakis\\source\\repos\\CandCertManager\\CandCertManager\\Program.cs",
+              "RelativeToolTip": "CandCertManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:17:43.595Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "C:\\Users\\iasonas.psomadakis\\source\\repos\\CandCertManager\\CandCertManager\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "CandCertManager\\Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\Users\\iasonas.psomadakis\\source\\repos\\CandCertManager\\CandCertManager\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "CandCertManager\\Controllers\\CandidateController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv10AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:15:15.306Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\iasonas.psomadakis\\source\\repos\\CandCertManager\\CandCertManager\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "CandCertManager\\Entities\\Candidate.cs",
+              "ToolTip": "C:\\Users\\iasonas.psomadakis\\source\\repos\\CandCertManager\\CandCertManager\\Entities\\Candidate.cs",
+              "RelativeToolTip": "CandCertManager\\Entities\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:33:06.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

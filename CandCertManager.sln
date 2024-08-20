@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35201.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CCManager", "CandCertManager\CCManager.csproj", "{3CE82088-9AEE-436D-AC6D-425BDC9F6315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CE82088-9AEE-436D-AC6D-425BDC9F6315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE82088-9AEE-436D-AC6D-425BDC9F6315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE82088-9AEE-436D-AC6D-425BDC9F6315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE82088-9AEE-436D-AC6D-425BDC9F6315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF901C2C-73C8-4027-A052-44F998A6DE0A}
+	EndGlobalSection
+EndGlobal
